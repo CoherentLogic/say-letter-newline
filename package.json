@@ -1,0 +1,23 @@
+{
+  "name": "say-letter-newline",
+  "version": "0.0.1",
+  "description": "Say a newline on standard output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoherentLogic/say-letter-newline.git"
+  },
+  "keywords": [
+    "micropackages",
+    "parody"
+  ],
+  "author": "jpw",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoherentLogic/say-letter-newline/issues"
+  },
+  "homepage": "https://github.com/CoherentLogic/say-letter-newline#readme"
+}
